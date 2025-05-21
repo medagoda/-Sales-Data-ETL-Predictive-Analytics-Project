@@ -127,6 +127,9 @@ jupyter notebook
 - snowflake-connector-python
 - python-dotenv
 
+### Screenshot
+![Power BI Visualization](/images/home.png)
+![Data Modeling](/images/home.png)
 
 ## 📈 Results & Visuals
 
