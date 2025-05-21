@@ -128,11 +128,15 @@ jupyter notebook
 - python-dotenv
 
 ### Screenshot
+
+- Power BI Visualization
 ![Power BI Visualization](1.png)
 
+-Data Modeling
 ![Data Modeling](2.png)
 
-![Schema Diagram ](d.png)
+-Schema Diagram
+![Schema Diagram](d.png)
 
 ## 📈 Results & Visuals
 
