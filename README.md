@@ -27,16 +27,6 @@ This project showcases a complete end-to-end ETL (Extract, Transform, Load) pipe
 
 ## 📁 Project Structure
 
--├── data/
--│ └── raw/ # Raw CSV data
--│ └── processed/ # Cleaned and transformed datasets
--├── notebooks/
--│ └── etl_pipeline.ipynb # ETL and SQL queries
--│ └── data_mining.ipynb # Feature engineering + predictions
--├── powerbi/
--│ └── dashboard.pbix # Power BI visualization file
--├── README.md
--└── requirements.txt
 
 
 
