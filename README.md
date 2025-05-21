@@ -129,7 +129,10 @@ jupyter notebook
 
 ### Screenshot
 ![Power BI Visualization](1.png)
+
 ![Data Modeling](2.png)
+
+![Schema Diagram ](d.png)
 
 ## 📈 Results & Visuals
 
