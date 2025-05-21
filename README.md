@@ -27,16 +27,16 @@ This project showcases a complete end-to-end ETL (Extract, Transform, Load) pipe
 
 ## 📁 Project Structure
 
-├── data/
-│ └── raw/ # Raw CSV data
-│ └── processed/ # Cleaned and transformed datasets
-├── notebooks/
-│ └── etl_pipeline.ipynb # ETL and SQL queries
-│ └── data_mining.ipynb # Feature engineering + predictions
-├── powerbi/
-│ └── dashboard.pbix # Power BI visualization file
-├── README.md
-└── requirements.txt
+-├── data/
+-│ └── raw/ # Raw CSV data
+-│ └── processed/ # Cleaned and transformed datasets
+-├── notebooks/
+-│ └── etl_pipeline.ipynb # ETL and SQL queries
+-│ └── data_mining.ipynb # Feature engineering + predictions
+-├── powerbi/
+-│ └── dashboard.pbix # Power BI visualization file
+-├── README.md
+-└── requirements.txt
 
 
 
@@ -129,13 +129,30 @@ jupyter notebook
 
 ### 📦 Requirements
 
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-snowflake-connector-python
-python-dotenv
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- snowflake-connector-python
+- python-dotenv
 
 
-<pre lang="markdown"> ```markdown ## 📈 Results & Visuals - Power BI file is located in the `powerbi/` folder. - Visuals include: - 📍 Shipment performance maps - 🔍 Cluster distribution of customer behavior - ⏱ Delivery trends over time - 💰 Profit forecasting dashboards --- ## 🙌 Acknowledgements Thanks to: - 🐍 Open source Python libraries (pandas, scikit-learn, etc.) - ❄️ Snowflake free-tier access for cloud data warehousing - 📊 Power BI for advanced data visualization tools ``` </pre>
+## 📈 Results & Visuals
+
+- Power BI file is located in the `powerbi/` folder.
+- Visuals include:
+  - 📍 Shipment performance maps  
+  - 🔍 Cluster distribution of customer behavior  
+  - ⏱ Delivery trends over time  
+  - 💰 Profit forecasting dashboards  
+
+---
+
+## 🙌 Acknowledgements
+
+Thanks to:
+
+- 🐍 Open source Python libraries (pandas, scikit-learn, etc.)  
+- ❄️ Snowflake free-tier access for cloud data warehousing  
+- 📊 Power BI for advanced data visualization tools  
